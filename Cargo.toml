@@ -1,0 +1,8 @@
+[package]
+name = "sorting"
+version = "0.1.0"
+authors = ["Alex Vermillion <dev@ajvermillion.com>"]
+edition = "2018"
+description = "A collection of sorting alogrithms in Rust"
+
+[dependencies]
